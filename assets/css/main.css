@@ -112,7 +112,7 @@ nav {
 
     transform: scaleX(0);
     transform-origin: right;
-    transition: transform 500ms cubic-bezier(.18,.89,.32,1.05);
+    transition: transform 650ms cubic-bezier(.18,.89,.32,1.05);
 
 }
 
